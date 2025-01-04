@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **supunnimantha199@gmail.com**
 <br>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimanthasupun&label=Profile%20views&color=0e75b6&style=flat" alt="nimanthasupun" /> </p>
+
+ <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimanthasupun&label=Profile%20views&color=0e75b6&style=flat" alt="nimanthasupun" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
