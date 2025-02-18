@@ -6,7 +6,6 @@
 
 # Hi there, I'm Nimantha Supun! 👋
 
-I'm a **BSc Data Science** student passionate about data analysis, machine learning, and building cool projects. I love exploring new technologies and solving real-world problems with data.
 
 ---
 
@@ -34,30 +33,7 @@ I'm a **BSc Data Science** student passionate about data analysis, machine learn
 ---
 
 ## 🎓 Currently
-- Pursuing a **BSc in Data Science**.
-- Exploring **Python, Pandas, Machine Learning, and Data Visualization**.
+- following a **BSc in Data Science**.
 
----
 
-## 🛠️ Skills
-- **Programming Languages**: Python, R
-- **Data Analysis**: Pandas, NumPy
-- **Data Visualization**: Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn
-- **Tools**: Jupyter Notebook, Git, VS Code
 
----
-
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-</p>
-
----
-
-## 🚀 Fun Fact
-I love turning raw data into meaningful insights and sharing my journey through code!
-
----
-
-Feel free to reach out if you'd like to collaborate or just chat about data science! 😊
