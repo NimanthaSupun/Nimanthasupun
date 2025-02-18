@@ -1,9 +1,3 @@
-<p align="left">
-  <a href="https://twitter.com/Nimanth51079132" target="blank">
-    <img src="https://img.shields.io/twitter/follow/Nimanth51079132?logo=twitter&style=for-the-badge" alt="Nimanth51079132" />
-  </a>
-</p>
-
 # Hi there, I'm Nimantha Supun! 👋
 
 ## 📫 How to Reach Me
