@@ -1,4 +1,4 @@
-# Hi there, I'm Nimantha Supun! 👋
+# Hi, I'm Nimantha Supun! 👋
 
 <p align="left">
   <a href="https://twitter.com/Nimanth51079132" target="blank">
@@ -14,8 +14,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimanthaariyarathne" height="30" width="40" />
   </a>
 </p>
-- **Email**: supunnimantha199@gmail.com
-
 ## 🎓 Currently
 - following a **BSc in Data Science**.
 
