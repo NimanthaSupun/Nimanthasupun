@@ -1,2 +1,3 @@
+
  
-<h4>Hi, I'm Nimantha Supun! 👋</h4>
+<h2>Hi, I'm Nimantha Supun! 👋</h2>
