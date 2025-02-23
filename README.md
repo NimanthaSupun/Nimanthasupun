@@ -1,7 +1,4 @@
-
- 
 <h1 align="center">Hi 👋, I'm Nimantha Supun</h1>
-<h3 align="center">An aspiring Data Scientist | BSc Data Science Student</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/Nimanth51079132" target="blank">
@@ -10,11 +7,7 @@
 </p>
 
 ### 👨‍🎓 About Me
-- 🎓 Currently pursuing BSc in Data Science
-- 📊 Passionate about transforming data into meaningful insights
-- 🌱 Always learning and exploring new technologies
-
-### 📫 How to reach me
+- 🎓 Currently following a BSc in Data Science
 - 📧 Email: **supunnimantha199@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -33,10 +26,3 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
