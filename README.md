@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nimantha Supun</h1>
 
-<p align="left"> 
-  <a href="https://twitter.com/Nimanth51079132" target="blank">
-    <img src="https://img.shields.io/twitter/follow/Nimanth51079132?logo=twitter&style=for-the-badge" alt="Nimanth51079132" />
-  </a> 
-</p>
+
 
 📧 Email: **supunnimantha199@gmail.com**
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nimantha-supun-489308332/" target="blank">
