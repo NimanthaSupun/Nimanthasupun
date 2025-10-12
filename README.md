@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimantha Supun</h1>
 
-
-
-📧 Email: **supunnimantha199@gmail.com**
-
 <!--
 <p align="left">
   <a href="https://www.linkedin.com/in/nimantha-supun-489308332/" target="blank">
